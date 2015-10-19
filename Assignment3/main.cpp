@@ -1,3 +1,21 @@
+/*********************************************************************************************
+*Author:					Austin Koos
+*Date Created:				10/17/2015
+*Last Modification Date:	10/18/2015
+*Lab Number:				CST 211 Assignment 3
+*Filename:					main.cpp
+*
+*Overview:
+*	Tests the functionality of the templated LinkedList class.  Makes use of all the member 
+*	functions and constructors.
+*
+*Input:
+*
+*
+*Output:
+*	isEmpty function boolean value displayed to console
+*
+***********************************************************************************************/
 #include <iostream>
 #include "LinkedList.h"
 using std::cout;

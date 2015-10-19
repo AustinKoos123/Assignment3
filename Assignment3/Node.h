@@ -1,3 +1,4 @@
+//Had to comment out the include guard, didn't work properly for some reason
 //#ifndef NODE_H
 #define NODE_H
 
