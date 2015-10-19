@@ -24,9 +24,18 @@ using std::endl;
 int main()
 {
 	LinkedList<int> list;
+	LinkedList<double> listDouble;
 	int num = 5;
 	int num1 = 6;
 	int num2 = 7;
+
+	double doub = 1.0;
+	double doub2 = 2.0;
+	double doub3 = 3.0;
+
+	listDouble.Prepend(&doub);
+	listDouble.Prepend(&doub2);
+	listDouble.Prepend(&doub3);
 
 	list.Prepend(&num);
 
